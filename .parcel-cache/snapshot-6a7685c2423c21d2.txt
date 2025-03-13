@@ -1,21 +1,21 @@
-4312
+4320
 91E:\Software Developer\ReactByNamasteDev\node_modules\utility-types\dist\mapped-types.js.map133862815277978776 0
-46E:\Software Developer\ReactByNamasteDev\App.js133862798057462549 0
+46E:\Software Developer\ReactByNamasteDev\App.js133863738397489763 0
 89E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\src\_async_iterator.mjs133862815336374865 0
 95E:\Software Developer\ReactByNamasteDev\node_modules\posthtml\node_modules\domhandler\readme.md133862815275034677 0
 102E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\features\css-read-only-write.js133862815313874794 0
 95E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\utils\test\input\config\config.cjs133862815268653671 0
-49E:\Software Developer\ReactByNamasteDev\gitignore133863692420253821 0
+49E:\Software Developer\ReactByNamasteDev\gitignore133863730673726099 0
 62E:\Software Developer\ReactByNamasteDev\node_modules\env-paths133862815269981231 1
-52E:\Software Developer\ReactByNamasteDev\package.json133863702960152538 0
+52E:\Software Developer\ReactByNamasteDev\package.json133863725258873718 0
 67E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\plugin133862815269312611 1
 128E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133862815301281375 0
-44E:\Software Developer\ReactByNamasteDev\dist133863704729348619 1
+44E:\Software Developer\ReactByNamasteDev\dist133863725448399276 1
 91E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\features\css-sel3.js133862815314853719 0
 116E:\Software Developer\ReactByNamasteDev\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.js133862815271962290 0
 80E:\Software Developer\ReactByNamasteDev\node_modules\cosmiconfig\dist\index.d.ts133862815293610481 0
 107E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\rust\parcel-node-bindings.linux-arm64-gnu.node133862815321646185 0
-50E:\Software Developer\ReactByNamasteDev\index.html133863704724119044 0
+50E:\Software Developer\ReactByNamasteDev\index.html133863711157055023 0
 68E:\Software Developer\ReactByNamasteDev\node_modules\tslib\README.md133862815275949117 0
 82E:\Software Developer\ReactByNamasteDev\node_modules\update-browserslist-db\cli.js133862815266759428 0
 60E:\Software Developer\ReactByNamasteDev\node_modules\js-yaml133862815288561686 1
@@ -31,12 +31,12 @@
 102E:\Software Developer\ReactByNamasteDev\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts133862815281901559 0
 73E:\Software Developer\ReactByNamasteDev\node_modules\json5\lib\unicode.js133862815278054420 0
 89E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\esm\_define_property.js133862815306112192 0
-57E:\Software Developer\ReactByNamasteDev\package-lock.json133863702960873574 0
+57E:\Software Developer\ReactByNamasteDev\package-lock.json133863711310924073 0
 76E:\Software Developer\ReactByNamasteDev\node_modules\js-yaml\lib\type\int.js133862815279271603 0
 69E:\Software Developer\ReactByNamasteDev\node_modules\type-fest\source133862815290553289 1
 105E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133862815305039144 0
 95E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\_\_initializer_warning_helper133862815316566446 1
-52E:\Software Developer\ReactByNamasteDev\node_modules133863702960016890 1
+52E:\Software Developer\ReactByNamasteDev\node_modules133863711310318579 1
 100E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\cjs\_class_private_method_init.cjs133862815287565165 0
 71E:\Software Developer\ReactByNamasteDev\node_modules\fill-range\LICENSE133862815262781755 0
 103E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133862815313266006 1
@@ -64,7 +64,7 @@
 98E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\transformer-raw\src\RawTransformer.js133862815267867926 0
 98E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js133862815275080432 0
 57E:\Software Developer\ReactByNamasteDev\node_modules\.bin133862815361698426 1
-60E:\Software Developer\ReactByNamasteDev\node_modules\@parcel133863702960087468 1
+60E:\Software Developer\ReactByNamasteDev\node_modules\@parcel133863711310378590 1
 69E:\Software Developer\ReactByNamasteDev\node_modules\msgpackr-extract133862815273367132 1
 99E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\cjs\_class_private_method_set.cjs133862815287964399 0
 91E:\Software Developer\ReactByNamasteDev\node_modules\msgpackr\dist\index-no-eval.min.js.map133862815288732423 0
@@ -78,7 +78,7 @@
 74E:\Software Developer\ReactByNamasteDev\node_modules\@swc\counter\index.js133862815262875271 0
 78E:\Software Developer\ReactByNamasteDev\node_modules\domutils\lib\helpers.d.ts133862815297220856 0
 110E:\Software Developer\ReactByNamasteDev\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md133862815299725464 0
-71E:\Software Developer\ReactByNamasteDev\node_modules\.package-lock.json133863702961371820 0
+71E:\Software Developer\ReactByNamasteDev\node_modules\.package-lock.json133863711311245505 0
 94E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\features\import-maps.js133862815348241749 0
 89E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\_\_type_of\package.json133862815328451485 0
 93E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\features\array-flat.js133862815288079799 0
@@ -96,13 +96,13 @@
 72E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\events\test133862815279145645 1
 96E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\features\accelerometer.js133862815271531803 0
 84E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\regions\CZ.js133862815316556511 0
-70E:\Software Developer\ReactByNamasteDev\node_modules\@msgpackr-extract133863702960097526 1
+70E:\Software Developer\ReactByNamasteDev\node_modules\@msgpackr-extract133863711310398642 1
 84E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\regions\FR.js133862815346667506 0
 73E:\Software Developer\ReactByNamasteDev\node_modules\electron-to-chromium133862815280390450 1
 85E:\Software Developer\ReactByNamasteDev\node_modules\update-browserslist-db\README.md133862815273558340 0
 77E:\Software Developer\ReactByNamasteDev\node_modules\react-dom\static.node.js133863702959873313 0
 77E:\Software Developer\ReactByNamasteDev\node_modules\json5\dist\index.min.mjs133862815281459093 0
-58E:\Software Developer\ReactByNamasteDev\node_modules\@lmdb133863702960117476 1
+58E:\Software Developer\ReactByNamasteDev\node_modules\@lmdb133863711310408563 1
 74E:\Software Developer\ReactByNamasteDev\node_modules\posthtml\lib\index.js133862815267095667 0
 93E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\types-internal\lib\FilePath.d.ts133862815283036370 0
 61E:\Software Developer\ReactByNamasteDev\node_modules\htmlnano133862815304220989 1
@@ -115,7 +115,7 @@
 80E:\Software Developer\ReactByNamasteDev\node_modules\lightningcss\node\index.mjs133862815280476084 0
 88E:\Software Developer\ReactByNamasteDev\node_modules\utility-types\dist\utility-types.js133862815272263224 0
 61E:\Software Developer\ReactByNamasteDev\node_modules\entities133862815297346762 1
-57E:\Software Developer\ReactByNamasteDev\node_modules\@swc133863702960051931 1
+57E:\Software Developer\ReactByNamasteDev\node_modules\@swc133863711310338598 1
 101E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\esm\_initializer_define_property.js133862815306512603 0
 101E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\cjs\_apply_decorated_descriptor.cjs133862815265014395 0
 90E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\cache\src\IDBCache.browser.js133862815271602097 0
@@ -2202,8 +2202,10 @@
 84E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\regions\TZ.js133862815358568673 0
 96E:\Software Developer\ReactByNamasteDev\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133862815301811782 0
 79E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\utils\.eslintrc.js133862815270379004 0
+66E:\Software Developer\ReactByNamasteDev\dist\index.3d214d75.js.map133863725277494073 0
 98E:\Software Developer\ReactByNamasteDev\node_modules\caniuse-lite\data\features\x-doc-messaging.js133862815360348105 0
 84E:\Software Developer\ReactByNamasteDev\node_modules\htmlnano\lib\modules\custom.mjs133862815301871375 0
+63E:\Software Developer\ReactByNamasteDev\dist\index.991f1ade.css133863725448029116 0
 104E:\Software Developer\ReactByNamasteDev\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.mjs133862815301937083 0
 85E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\lib\public\Asset.js133862815284375230 0
 90E:\Software Developer\ReactByNamasteDev\node_modules\htmlnano\lib\modules\mergeScripts.cjs133862815280415621 0
@@ -3569,6 +3571,7 @@
 88E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\transformer-js\package.json133862815274015819 0
 95E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\esm\_await_async_generator.js133862815304344114 0
 89E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\src\summarizeRequest.js133862815308039915 0
+62E:\Software Developer\ReactByNamasteDev\dist\index.3d214d75.js133863725277333004 0
 85E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\esm\_await_value.js133862815304369393 0
 106E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\transformer-html\node_modules\srcset\index.js133862815264964457 0
 84E:\Software Developer\ReactByNamasteDev\node_modules\@swc\helpers\esm\_call_super.js133862815304409456 0
@@ -4158,7 +4161,7 @@
 123E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133862815313456844 0
 107E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133862815312711314 0
 115E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133862815312489481 0
-55E:\Software Developer\ReactByNamasteDev\dist\index.html133863704729068484 0
+55E:\Software Developer\ReactByNamasteDev\dist\index.html133863725447999895 0
 100E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\test\fixtures\context\package.json133862815312393972 0
 110E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133862815272399155 0
 114E:\Software Developer\ReactByNamasteDev\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133862815264479359 0
@@ -4308,6 +4311,11 @@
 68E:\Software Developer\ReactByNamasteDev\node_modules\.bin\semver.ps1133862815361734165 0
 84E:\Software Developer\ReactByNamasteDev\node_modules\.bin\update-browserslist-db.ps1133862815361753879 0
 62E:\Software Developer\ReactByNamasteDev\dist\index.6bd02f5a.js133863704375877446 0
+62E:\Software Developer\ReactByNamasteDev\dist\index.986a6253.js133863725448035369 0
+66E:\Software Developer\ReactByNamasteDev\dist\index.986a6253.js.map133863725448367357 0
+67E:\Software Developer\ReactByNamasteDev\dist\index.991f1ade.css.map133863725448218266 0
 63E:\Software Developer\ReactByNamasteDev\dist\index.9e4c6fd2.css133863704729108564 0
 67E:\Software Developer\ReactByNamasteDev\dist\index.9e4c6fd2.css.map133863704729178503 0
+63E:\Software Developer\ReactByNamasteDev\dist\index.c41b5a0e.css133863725275988460 0
+67E:\Software Developer\ReactByNamasteDev\dist\index.c41b5a0e.css.map133863725276061912 0
 74E:\Software Developer\ReactByNamasteDev\dist\ReactByNamasteDev.3464ddca.js133863704729268471 0
